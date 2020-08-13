@@ -1,7 +1,6 @@
-git st
-
-argin: 0;
-  padding: 0;
+* {
+    margin: 0;
+    padding: 0;
 }
 
 .header {
